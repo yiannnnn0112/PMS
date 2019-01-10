@@ -1,0 +1,57 @@
+body {
+background-image: url("grass02.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+#frame1 {
+width: 200px;
+height: 200px;
+padding: 15px;
+
+left: 50%;
+top: 50%;
+margin-left:350px;
+margin-top: 120px;
+background-color: rgba(240, 255, 255, 0.5);
+border-radius: 10px;
+text-align: center;
+}
+
+#stock1 {
+margin-top: 35px;
+}
+
+#frame2 {
+width: 200px;
+height: 200px;
+padding: 15px;
+left: 50%;
+top: 50%;
+margin-left:300px;
+margin-top: -210px;
+background-color: rgba(240, 255, 255, 0.5);
+border-radius: 10px;
+text-align: center;
+}
+
+#stock2 {
+margin-top: 35px;
+}
+
+
+
+.stock_txt {
+font-size: 16px;
+font-family: 宋體;
+width: 120px;
+height: 30px;
+line-height: 30px;
+text-align: center;
+color: white;
+background-color: #75bc1d;
+border-radius: 6px;
+border: 0;
+margin-left:-60px;
+}
+
